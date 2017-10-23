@@ -16,7 +16,7 @@ apply plugin: "me.champeau.jbake"
 jbake {
    clearCache = true
    def Date = getDate();
-   output = file('build/output'+Date)
+   output = file('build/BETAoutput'+Date)
 }
 
 def getDate() {

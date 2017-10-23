@@ -10,7 +10,7 @@ nation=ko
 
 
 
-dev버전 입니다.
+beta branch 입니다.
 
 ## TOAST Cloud Overview
 

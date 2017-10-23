@@ -143,4 +143,4 @@ Console에서 [Game] > [Leaderboard]를 선택 후 [상품이용] 버튼 클릭 
 ![[그림 11 유저 랭킹 삭제 팝업]](http://static.toastoven.net/prod_leaderboardv2/user_console_mod_10.JPG)
 <center>[그림 11 유저 랭킹 삭제 팝업]</center>
 
-※ 개발과 관련된 api 정보는 [Developer's Guide](../../../Game/Leaderboard/en/Developer%60s%20Guide.html) 를 참조해주세요.
+※ 개발과 관련된 api 정보는 [Developer's Guide](/Game/Leaderboard/ko/Developer%60s%20Guide/) 를 참조해주세요.
